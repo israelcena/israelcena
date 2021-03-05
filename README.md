@@ -1,4 +1,4 @@
-### Hi there 👋 Im Israel Cena
+### Hi there 👋 I'm Israel Cena
 
 #### I'm a Front-end Developer based in Brazil
 
