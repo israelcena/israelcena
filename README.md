@@ -1,4 +1,4 @@
-[<img src="https://i.imgur.com/OZtRgd2.png">](https://linkedin/in/israelcena)
+[<img src="https://i.imgur.com/OZtRgd2.png">](https://linkedin.com/in/israelcena)
 
 ### Hi there 👋 I'm Israel Cena
 
