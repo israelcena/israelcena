@@ -2,7 +2,7 @@
 <center>
 ### Hi there 👋 I'm Israel Cena
 
-#### I'm a Front-end Developer based in Brazil
+#### I'm a FullStack Developer
 
 #####  
 
