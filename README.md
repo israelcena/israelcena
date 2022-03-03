@@ -6,9 +6,12 @@
 Graduated in Marketing, I am a professional 100% specialized in product development and solutions aimed at meeting customer needs.
 I have been passionate about technology since I was little. I believe that with hard work and faith in the cause, anything is possible!
 
-#####  
+#### Top langs
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=israelcena&layout=compact)](https://github.com/israelcena/israelcena)
+ 
+</br>
 
-Would you like to find me?
+#### Would you like to find me?
 
 [![Blog Badge](https://img.shields.io/badge/Site-israelcena.com.br-black)](https://israelcena.com.br)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/israelcena)](https://twitter.com/israelcena)
@@ -16,4 +19,4 @@ Would you like to find me?
  </center>
  
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=israelcena&layout=compact)](https://github.com/israelcena/israelcena)
+ 
