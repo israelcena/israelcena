@@ -3,8 +3,7 @@
 ### Hi there 👋 I'm Israel Cena
 
 #### I'm a Brazilian FullStack Developer. 
-Graduated in Marketing, I am a professional 100% specialized in product development and solutions aimed at meeting customer needs.
-I have been passionate about technology since I was little. I believe that with hard work and faith in the cause, anything is possible!
+I graduated in Marketing but my heart belongs to product development. I specialize in crafting unique solutions that customers love. Tech enthusiast since childhood, I'm fueled by the belief that hard work and faith breed possibilities.
 
 #### Top langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=israelcena&layout=compact)](https://github.com/israelcena/israelcena)
